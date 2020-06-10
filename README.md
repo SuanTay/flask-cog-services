@@ -10,7 +10,7 @@ Flask - Python Language Detection COG Services
 - Message si la langue détecter n'appartient pas à ces 5 langues
 ### Avec L'API de Azure Cognitive Services
 #### La clé de L'API 
-- Placer la Clé dans les variables d'environement 
+- Placer la clé dans les variables d'environement 
 - Nom de la clé API_KEY_COG
 
 
